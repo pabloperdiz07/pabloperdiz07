@@ -1,6 +1,6 @@
 ## Olá! Sou Pablo Perdiz.
 
-💼 Atuo como gestor de tráfego e Coordenador de marketing e vendas desde 2022, aproveitando a oportunidade de participar de um ambiente coorporativo com muita colaboração e engajamento. 
+💼 Atuo como gestor de tráfego e Coordenador de marketing e vendas desde 2022, aproveitando a oportunidade de vivenciar um ambiente coorporativo com muita colaboração e engajamento. 
 
 📚 Vivo em constante aprendizado, abusando da proatividade e do raciocínio lógico para levar soluções aos problemas que surgem dentro do meu ambiente de trabalho.
 
