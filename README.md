@@ -2,13 +2,13 @@
 
 🎓 Graduando em Engenharia de computação pela UFBA e formado pelo Colégio Militar de Salvador;
 
-💼 Atuo como gestor de tráfego e Coordenador de marketing e vendas desde 2022, aproveitando a oportunidade de vivenciar um ambiente coorporativo com muita colaboração e engajamento;
+💼 Atuo como analista de dados desde 2022, aproveitando a oportunidade de vivenciar um ambiente coorporativo com muita colaboração e engajamento;
 
 🚀 Membro efetivo na TITAN - Empresa Júnior de Engenharia de Computação;
 
 📚 Vivo em constante aprendizado, abusando da proatividade e do raciocínio lógico para levar soluções aos problemas que surgem dentro do meu ambiente de trabalho;
 
-😍 Apaixonado por programação e já tendo contato com algumas tecnologias como: Python, HTML, CSS e JavaScript, me sinto mais do que pronto para iniciar minha carreira profissional na área.
+😍 Apaixonado por programação!  Experiência profissional ou acadêmica em JavaScript, Python, Dart, Flutter, HTML, CSS e MySQL.
 
 ##
   
