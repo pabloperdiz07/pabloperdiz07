@@ -1,9 +1,16 @@
 ## Olá, eu sou Pablo Perdiz 👋
 
-- 💻 Analista e desenvolvedor de sistemas na Clínica Claiton Pires
-- 👨‍🎓 Graduando em Engenharia da Software pela UCSAL
-- :envelope_with_arrow: Email: pabloalfayaperdiz@gmail.com
-- 🔗 Confira o meu linkedIn: https://www.linkedin.com/in/pablo-perdiz-a67374232
+Desenvolvedor Full Stack apaixonado por criar soluções completas e inovadoras — desde firmware
+embarcado programado em C++ com ESP32, até aplicações web modernas com Next.js e NestJS.
+
+Tenho facilidade em trabalhar de forma colaborativa, sou autodidata e proativo, com forte raciocínio
+lógico e capacidade de resolver problemas de forma eficiente. Sempre busco aprender e me adaptar
+rapidamente às novas tecnologias e demandas do mercado.
+
+Ao longo da minha trajetória, participei do desenvolvimento de sistemas escaláveis com autenticação
+segura, integração entre dispositivos físicos e interfaces web, arquitetura baseada em microsserviços e
+deploys em ambiente cloud. Essa vivência prática me proporcionou uma compreensão sólida do ciclo
+completo de desenvolvimento — da concepção ao deploy.
 
 ## Linguagens que utilizo:
 
